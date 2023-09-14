@@ -1,0 +1,3 @@
+1. Qual a relação que coesão possui com as responsabilidades de uma classe?
+
+Reduzir complexidade do Codigo e Definir metodos especificos e bem definidos para cada classe

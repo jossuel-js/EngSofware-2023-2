@@ -1,0 +1,3 @@
+Explique com suas palavras o que é o acoplamento entre classes.
+
+E quando uma ou mais classes são interdepentes entre elas ,ou seja tem alta dependencia uma da outra tornando o codigo engessado e de dificil manutenção

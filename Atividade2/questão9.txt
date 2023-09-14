@@ -1,0 +1,3 @@
+É possivel zerar o acoplamento em um software simples ou complexo?
+
+Creio que seja impossivel.tipo não faz sentido uma aplicação com diversas classes e metodos não terem nenhuma relação entre si
